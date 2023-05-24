@@ -1796,7 +1796,12 @@
 	  }
 	],
 	"cart": [],
-	"users":[],
+	"user":[
+	"signup":[],
+	],
+	"users":[
+	"login":[],
+	],
 	"Address": {
 	  "name": "Uttrakhand , Ru",
 	  "mobileNo": "9675286699",
